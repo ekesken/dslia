@@ -1,0 +1,30 @@
+Copyright (C) 2009 Erhan Kesken
+See the end of the file for license conditions.
+
+teach dslia your dsl (domain specific language), then she can create diagrams
+from your dsl scripts, or you can just draw a diagram for her to create scripts
+for you.
+
+The Dslia web site  . . . . http://dslia.googlecode.com
+Support . . . . . . . . . . http://code.google.com/p/dslia/issues/list
+Wiki  . . . . . . . . . . . http://code.google.com/p/dslia/w/list
+Downloads . . . . . . . . . http://code.google.com/p/dslia/downloads/list
+
+COPYING            - The GPL license.
+README             - This file.
+
+This file is part of Dslia.
+
+Dslia is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Dslia is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Dslia.  If not, see <http://www.gnu.org/licenses/>.
+
